@@ -1,0 +1,9 @@
+torch
+transformers
+DeepPurpose @ git+https://github.com/kexinhuang12345/DeepPurpose.git
+rdkit-pypi
+langchain
+uagents
+faiss-cpu
+git+https://github.com/bp-kelley/descriptastorus
+pandas-flavor
